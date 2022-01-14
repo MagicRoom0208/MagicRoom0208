@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MagicRoom0208(AsH_Magic)
+- 👀 I’m interested in Coding...
+- 🌱 I’m currently learning ...
+- 📫 My email is "jun523523@naver.com" ...
+
+<!---
+MagicRoom0208/MagicRoom0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
